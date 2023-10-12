@@ -13,10 +13,6 @@ Usage
 Clone the repository to your local machine and navigate to the project directory. The code snippets can be run in a local development environment set up with the necessary libraries and dependencies.
 
 
-Copy code
-git clone https://github.com/nelc-digital/Hyperparameter-Tuning.git
-cd Hyperparameter-Tuning
-
 Contributing
 Feel free to fork the project, open an issue, or submit a pull request if you have any improvements or found bugs.
 
