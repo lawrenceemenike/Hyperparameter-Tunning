@@ -8,22 +8,15 @@ Manual Tuning: Basic method for tuning hyperparameters.
 Random Search: An optimized method to search through the hyperparameter space.
 Grid Search: A systematic way of going through different hyperparameters to find the best combination.
 Automated Tuning using Hyperopt Library: A modern way to automatically tune hyperparameters using the Hyperopt library.
+
 Usage
 Clone the repository to your local machine and navigate to the project directory. The code snippets can be run in a local development environment set up with the necessary libraries and dependencies.
 
-bash
+
 Copy code
 git clone https://github.com/nelc-digital/Hyperparameter-Tuning.git
 cd Hyperparameter-Tuning
-Dependencies
-Python (>=3.7)
-scikit-learn
-Hyperopt
-Install the necessary libraries using pip:
 
-bash
-Copy code
-pip install -r requirements.txt
 Contributing
 Feel free to fork the project, open an issue, or submit a pull request if you have any improvements or found bugs.
 
